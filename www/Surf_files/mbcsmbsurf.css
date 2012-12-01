@@ -1,0 +1,98 @@
+.ebul_mbsurf, .ebul_mbsurf UL
+{
+	/*[disabled]background-color:#666666;*/
+	/*[disabled]border:1px solid #000000;*/
+	/*[disabled]display:inline-table;*/
+	/*[disabled]font-size:1px;*/
+	/*[disabled]margin:0px;*/
+	/*[disabled]overflow:auto;*/
+	/*[disabled]padding:1px;*/
+	/*[disabled]position:absolute;*/
+	/*[disabled]visibility:hidden;*/
+}
+.ebul_mbsurf_shadow
+{
+	/*[disabled]background-color:#777777;*/
+	/*[disabled]display:block;*/
+	/*[disabled]margin:0px;*/
+	/*[disabled]overflow:hidden;*/
+	/*[disabled]position:absolute;*/
+	/*[disabled]visibility:hidden;*/
+}
+.ebul_mbsurf TABLE
+{
+	/*[disabled]border-collapse:separate;*/
+}
+.ebul_mbsurf TR
+{
+	/*[disabled]background-color:#666666;*/
+	/*[disabled]cursor:pointer;*/
+	/*[disabled]font-size:1px;*/
+}
+.ebul_mbsurf TD
+{
+	border: 1px solid #000000;
+	/*[disabled]padding:1px;*/
+	text-align: -moz-center;
+}
+.ebul_mbsurf TD A, .ebul_mbsurf TD A:visited
+{
+	/*[disabled]color:#FFFFFF;*/
+	/*[disabled]font-family:Roboto;*/
+	/*[disabled]font-size:11px;*/
+	/*[disabled]font-style:normal;*/
+	/*[disabled]font-weight:normal;*/
+	/*[disabled]text-decoration:none;*/
+}
+.ebul_mbsurf TR.hot, .ebul_mbsurf TR.expanded
+{
+	/*[disabled]background-color:#3399FF;*/
+}
+.ebul_mbsurf TR.hot TD, .ebul_mbsurf TR.expanded TD
+{
+	/*[disabled]border-color:#000000;*/
+}
+.ebul_mbsurf TR.hot A, .ebul_mbsurf TR.expanded A
+{
+	/*[disabled]color:#000000;*/
+	/*[disabled]font-family:Roboto, serif;*/
+	/*[disabled]font-size:11px;*/
+	/*[disabled]font-style:normal;*/
+	/*[disabled]font-weight:normal;*/
+	/*[disabled]text-decoration:none;*/
+}
+.ebul_mbsurf TD DIV.ebul_mbsurfseparator
+{
+	/*[disabled]border-top:1px solid #C0C0C0;*/
+	/*[disabled]border-bottom:1px solid #800000;*/
+	/*[disabled]height:0px;*/
+	/*[disabled]font-size:0;*/
+}
+.ebul_mbsurf TD.ebul_mbsurfseparatortd
+{
+	/*[disabled]cursor:default;*/
+}
+UL.ebul_mbsurf
+{
+	/*[disabled]position:absolute;*/
+	/*[disabled]visibility:hidden;*/
+}
+.mbsurfebul_menulist .spaced_li
+{
+	/*[disabled]padding:0px 1px 0px 0px;*/
+}
+.mbsurfebul_menulist LI
+{
+	/*[disabled]list-style:none;*/
+	/*[disabled]float:left;*/
+}
+.mbsurfebul_menulist IMG
+{
+	/*[disabled]vertical-align:bottom;*/
+}
+.mbsurfebul_menulist
+{
+	/*[disabled]margin:0px;*/
+	/*[disabled]padding:0px;*/
+	/*[disabled]line-height:0px;*/
+}
